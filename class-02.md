@@ -46,10 +46,10 @@ You can declare variables and assignee values in the same statement as shortcut 
 ## How to change a value of a variable? 
 Once you have assigned a value to a variable, you can then change what is stored in the variable later in the same script by using the variable name and equal sign with the new value.
 ## Rules for naming variables
-1. The name must begin with a letter, dollar sign ($), or an underscore (_). It must not start with a number.
-2. You cannot use keywords or reserved words. Keywords are special words that tell the interpreter to do something. For example, var is a keyword used to declare a variable. Reserved words are ones that may be used in a future version of JavaScript.
-3. All variables are case sensitive, so score and Score would be different variable names, but it is bad practice to create two variables that have the same name using different cases.
-4. If your variable name is made up of more than one word, use a capital letter for the first letter of every word after the first word. For example, firstName rather than firstname.
+* The name must begin with a letter, dollar sign ($), or an underscore (_). It must not start with a number.
+* You cannot use keywords or reserved words. Keywords are special words that tell the interpreter to do something. For example, var is a keyword used to declare a variable. Reserved words are ones that may be used in a future version of JavaScript.
+* All variables are case sensitive, so score and Score would be different variable names, but it is bad practice to create two variables that have the same name using different cases.
+* If your variable name is made up of more than one word, use a capital letter for the first letter of every word after the first word. For example, firstName rather than firstname.
 ## Arrays
 An array is a special type of variable. It doesn't just store one value; it stores a list of values. You should consider using an array whenever you are working with a list or a set of values that are related to each other.<br />
 Values in an array are accessed as if they are in a numbered list. It is important to know that the numbering of this list starts at zero (not one).<br />
@@ -57,11 +57,11 @@ Each item in an array is automatically given a number called an index, Each arra
 To access a value from an array, after the array name you specify the index number for that value inside square brackets. You can change the value of an item an array by selecting it and assigning it a new value just as you would any other variable.
 ## Operators
 Expressions rely on things called operators; they allow programmers to create a single value from one or more values.
-1. assignment operators : color=’red’ ; 
-2. arithmetic operators: rec=3*2;<
-3. string operators: g=’hi’+’ahmad’;
-4. comparison operators: temp=30>20
-5. logical operators: temp= (30>20) &&(90<30);
+* assignment operators : color=’red’ ; 
+* arithmetic operators: rec=3*2;<
+* string operators: g=’hi’+’ahmad’;
+* comparison operators: temp=30>20
+* logical operators: temp= (30>20) &&(90<30);
 
 # Decisions and Loops
 In some places in the script some decisions in the code had to be made so to decide which part of the code will be run.<br/>
