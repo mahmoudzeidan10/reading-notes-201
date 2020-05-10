@@ -5,5 +5,5 @@
 
 |Page            | Link 
 |   :----------: | :----------:    |
-| 1  | [Mastering-Markdown](https://mahmoudzeidan10.github.io/learning-journal/Mastering-Markdown)  
+|1   |  
 
