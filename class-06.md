@@ -1,3 +1,25 @@
+# Understanding The Problem Domain
+an example to understand problem domain is jigsaw puzzle, So when you put together a jigsaw puzzle you follow steps that might look something like this:
+
+1. Figure out what the major components of the picture are.
+2. Sort the pieces by color or component.
+3. Put together all the border pieces.
+4. Put together each component of the picture from the piles you created.
+This all breaks down when you don’t have a picture with clear components that you can identify. <br />
+
+The same thing happens when writing code.  Writing code is a lot like putting together a jigsaw puzzle.  We put together code with the purpose of building components that we have taken out of the “bigger picture” of the problem domain.<br />
+
+The big issue is that many problem domains are like a puzzle with a blurry picture or no picture at all.<br />
+
+Many of the problem domains we face as programmers are difficult to understand and look completely different depending on your viewpoint.<br />
+***Programming will became more easily if you Understand the problem domain*** <br />
+***It is very difficult to solve a problem before you know the question.*** <br />
+
+So, if understanding the problem domain is the hardest part of programming and you want to make programming easier, you can do one of two things:
+
+1. Make the problem domain easier.
+2. Get better at understanding the problem domain.
+
 # What is an Object
 Objects group together a set of variables and functions to create a model of a something you would recognize from the real world. In an object, variables and functions take on new names, and  variables named properties and functions named methods. <br />
 ### Creating an Object 
