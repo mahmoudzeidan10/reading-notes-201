@@ -11,7 +11,7 @@
 |4  |   [HTML Links, CSS Layout, JS Functions](https://mahmoudzeidan10.github.io/reading-notes-201/class-04)
 |5  |   [ HTML Images; CSS Color & Text](https://mahmoudzeidan10.github.io/reading-notes-201/class-05)
 | 6 |   [ JS Object Literals; The DOM](https://mahmoudzeidan10.github.io/reading-notes-201/class-06)
-| 7 |   [HTML Tables; JS Constructor Functions]
+| 7 |   [HTML Tables; JS Constructor Functions](https://mahmoudzeidan10.github.io/reading-notes-201/class-07)
 | 8 |   [ 08 - More CSS Layout]
 | 9 |   [09 - Forms and Events]
 | 10 |   [JS Debugging]
