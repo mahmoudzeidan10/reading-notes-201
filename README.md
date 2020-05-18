@@ -12,8 +12,8 @@
 |5  |   [ HTML Images; CSS Color & Text](https://mahmoudzeidan10.github.io/reading-notes-201/class-05)
 | 6 |   [ JS Object Literals; The DOM](https://mahmoudzeidan10.github.io/reading-notes-201/class-06)
 | 7 |   [HTML Tables; JS Constructor Functions](https://mahmoudzeidan10.github.io/reading-notes-201/class-07)
-| 8 |   [ 08 - More CSS Layout]
-| 9 |   [09 - Forms and Events]
+| 8 |   [More CSS Layout](https://mahmoudzeidan10.github.io/reading-notes-201/class-08)
+| 9 |   [Forms and Events]
 | 10 |   [JS Debugging]
 | 11 |   [Assorted Topics]
 | 12 |   [Docs for the HTML canvas Element & Chart.js]
