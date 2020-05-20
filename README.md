@@ -14,7 +14,7 @@
 | 7 |   [HTML Tables; JS Constructor Functions](https://mahmoudzeidan10.github.io/reading-notes-201/class-07)
 | 8 |   [More CSS Layout](https://mahmoudzeidan10.github.io/reading-notes-201/class-08)
 | 9 |   [Forms and Events](https://mahmoudzeidan10.github.io/reading-notes-201/class-09)  
-| 10 |   [JS Debugging]
+| 10 |   [JS Debugging](https://mahmoudzeidan10.github.io/reading-notes-201/class-10)
 | 11 |   [Assorted Topics]
 | 12 |   [Docs for the HTML canvas Element & Chart.js]
 | 13 |   [Local Storage]
