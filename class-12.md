@@ -1,6 +1,6 @@
 # Create Stunning Animated Charts With Chart.Js
 Installation: You can download the latest version of Chart.js from the GitHub releases or use a Chart.js CDN. Detailed installation instructions can be found on the installation page. <br /> 
-Creating a Chart: t's easy to get started with Chart.js. All that's required is the script included in your page along with a single <canvas> node to render the chart. <br />
+Creating a Chart: it's easy to get started with Chart.js. All that's required is the script included in your page along with a single canvas node to render the chart. <br />
 Charts are far better for displaying data visually than tables and have the added benefit that no one is ever going to press-gang them into use as a layout tool. <br />
 # How to draw on the canvas
 The grid: canvas grid or coordinate space. Our HTML skeleton from the previous page had a canvas element 150 pixels wide and 150 pixels high. To the right, you see this canvas with the default grid overlayed. Normally 1 unit in the grid corresponds to 1 pixel on the canvas. The origin of this grid is positioned in the top left corner at coordinate (0,0). All elements are placed relative to this origin. So the position of the top left corner of the blue square becomes x pixels from the left and y pixels from the top, at coordinate (x,y). Later in this tutorial we'll see how we can translate the origin to a different position, rotate the grid and even scale it, but for now we'll stick to the default. <br />
