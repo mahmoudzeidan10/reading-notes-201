@@ -17,6 +17,6 @@
 | 10 |   [JS Debugging](https://mahmoudzeidan10.github.io/reading-notes-201/class-10)
 | 11 |   [Images in HTML and SEO](https://mahmoudzeidan10.github.io/reading-notes-201/class-11)
 | 12 |   [Docs for the HTML canvas Element & Chart.js](https://mahmoudzeidan10.github.io/reading-notes-201/class-12)
-| 13 |   [Local Storage]
+| 13 |   [Local Storage](https://mahmoudzeidan10.github.io/reading-notes-201/class-13)
 | 14 |   [ CSS Transforms, Transitions, and Animations]
 | 15 |   [What Google Learned About Teams]
